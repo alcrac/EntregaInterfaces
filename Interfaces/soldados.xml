@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<soldados>
+    <soldado>
+        <clase>Grenaider</clase>
+        <firstName>Pipo</firstName>
+        <lastName>Muster</lastName>
+        <nickname>Perro</nickname>
+    </soldado>
+    <soldado>
+        <clase>Ranger</clase>
+        <firstName>Cristian</firstName>
+        <lastName>Fernandez</lastName>
+        <nickname>CF7</nickname>
+    </soldado>
+</soldados>
